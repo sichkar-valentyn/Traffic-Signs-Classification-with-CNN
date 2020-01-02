@@ -10,7 +10,7 @@ Implementing CNNs for effective traffic signs classification
 <br/>
 
 ### <a id="description">Description</a>
-Coming ...
+Experimenting with different dimensions of Convolutional Neural Network's **Filters** in order to find the most accurate solution for Traffic Signs Classification.
 
 <br/>
 
