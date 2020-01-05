@@ -19,7 +19,8 @@ Experimenting with different dimensions of Convolutional Neural Network's **Filt
 <br/>
 
 ### <a id="how-to-use">How to use</a>
-The easiest way is to clone code on kaggle <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-classification-with-cnn" target="_blank">here</a>.
+- [x] The easiest way is to clone code on **Kaggle** <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-classification-with-cnn" target="_blank">here</a>.
+- [x] Another option would be to download **Jupyter Notebook** file and use it at local machine. But in this case, you need to download also dataset that is located on **Kaggle** <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-preprocessed" target="_blank">here</a>.
 
 <br/>
 
