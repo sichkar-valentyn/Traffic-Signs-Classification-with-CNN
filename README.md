@@ -20,7 +20,12 @@ Experimenting with different dimensions of Convolutional Neural Network's **Filt
 
 ### <a id="how-to-use">How to use</a>
 - [x] The easiest way is to clone code on **Kaggle** <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-classification-with-cnn" target="_blank">here</a>.
-- [x] Another option would be to download **Jupyter Notebook** file and use it at local machine. But in this case, you need to download also dataset that is located on **Kaggle** <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-preprocessed" target="_blank">here</a>.
+- [x] Another option would be to download **Jupyter Notebook** file and use it at local machine. But in this case, you need to download also dataset that is located on **Kaggle** <a href="https://www.kaggle.com/valentynsichkar/traffic-signs-preprocessed" target="_blank">here</a>. Also, change the location of **dataset** in the second cell, pointing to the downloaded file, e.g.:
+```py
+# Opening file for reading in binary mode
+with open('../input/traffic-signs-preprocessed/data2.pickle', 'rb') as f:
+    data = pickle.load(f, encoding='latin1')  # dictionary type
+```
 
 <br/>
 
