@@ -30,7 +30,19 @@ with open('../input/traffic-signs-preprocessed/data2.pickle', 'rb') as f:
 <br/>
 
 ### <a id="results">Results</a>
-Coming ...
+Find below training results for Traffic Signs classification by CNNs.
+
+Model's filters  | Training Accuracy | Validation Accuracy
+------------- | ------------- | -------------
+3x3  | 0.98792 | 0.86440
+5x5  | 0.98568 | 0.88594
+9x9  | 0.98049 | 0.86576
+13x13  | 0.97101 | 0.83152
+15x15  | 0.96905 | 0.84444
+19x19  | 0.96085 | 0.83107
+23x23  | 0.94966 | 0.83946
+25x25  | 0.94912 | 0.84172
+31x31  | 0.93354 | 0.83311
 
 <br/>
 
