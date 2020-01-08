@@ -44,6 +44,11 @@ Model's filters  | Training Accuracy | Validation Accuracy
 25x25  | 0.94912 | 0.84172
 31x31  | 0.93354 | 0.83311
 
+On the Figure below graph is shown for different Model's filters.
+<br/>
+
+![Accuracy of different Models filters](https://github.com/sichkar-valentyn/Traffic-Signs-Classification-with-CNN/blob/master/accuracy.png "Accuracy of different Models filters")
+
 <br/>
 
 ### MIT License
