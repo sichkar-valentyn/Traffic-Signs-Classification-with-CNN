@@ -49,6 +49,11 @@ On the Figure below graph is shown for different Model's filters.
 
 ![Accuracy of different Models filters](https://github.com/sichkar-valentyn/Traffic-Signs-Classification-with-CNN/blob/master/accuracy.png "Accuracy of different Models filters")
 
+On the Figure below trained filters are shown for 31x31 Model.
+<br/>
+
+![Trained filters for 31x31 Model](https://github.com/sichkar-valentyn/Traffic-Signs-Classification-with-CNN/blob/master/filters31x31.png "Trained filters for 31x31 Model")
+
 <br/>
 
 ### MIT License
