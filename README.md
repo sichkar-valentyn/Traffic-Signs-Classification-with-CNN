@@ -1,5 +1,7 @@
 # Traffic Signs Classification with CNN
 Implementing CNNs for effective Traffic Signs classification.
+<br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3605407.svg)](https://doi.org/10.5281/zenodo.3605407)
+
 
 ### Related Paper
 Sichkar V. N., Kolyubin S. A. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2019, vol. 19, no. 3, pp. DOI: 10.17586/2226-1494-2019-19-3-546-552 (Full-text available also <a href="https://www.researchgate.net/publication/334074308_Effect_of_various_dimension_convolutional_layer_filters_on_traffic_sign_classification_accuracy" target="_blank">here</a>)
@@ -60,4 +62,4 @@ On the Figure below trained filters are shown for 31x31 Model.
 ### Copyright (c) 2020 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
 ### Reference to:
-Valentyn N Sichkar. Traffic Signs Classification with CNN // GitHub platform. DOI: Coming ...
+Valentyn N Sichkar. Traffic Signs Classification with CNN // GitHub platform. DOI: 10.5281/zenodo.3605407
