@@ -7,7 +7,7 @@ Implementing CNNs for effective Traffic Signs classification.
 Sichkar V. N., Kolyubin S. A. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2019, vol. 19, no. 3, pp. DOI: 10.17586/2226-1494-2019-19-3-546-552 (Full-text available also <a href="https://www.researchgate.net/publication/334074308_Effect_of_various_dimension_convolutional_layer_filters_on_traffic_sign_classification_accuracy" target="_blank">here</a>)
 
 ### Related Course for Detection Tasks
-**Training YOLO v3 for Objects Detection with Custom Data.** *Build your own detector by labelling, training and testing on image, video and in real time with camera.* Available here: [https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/](https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/)
+**Training YOLO v3 for Objects Detection with Custom Data.** *Build your own detector by labelling, training and testing on image, video and in real time with camera.* Available here: [https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/](https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/?referralCode=A283956A57327E37DDAD)
 
 Detections on video are shown below. **Trained weights** for detection tasks can be found in the course mentioned above.
 ![Detections on Video](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2F11bee8c0918c092b7d256b5254ba441c%2Fts_detections.gif?generation=1581794210627123&alt=media "Detections of Traffic Signs on Video")
